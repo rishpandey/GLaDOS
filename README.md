@@ -29,3 +29,6 @@
 ## About
 GLaDOS is a terminal helper that makes your life easier. It currently has features like dowloading gitignore and sharing files, and there is a lot more to come.
 It's based on our favorite [Portal character](https://theportalwiki.com/wiki/Glados) of the same name.
+
+## Available Commands
+

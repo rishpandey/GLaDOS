@@ -28,7 +28,7 @@ class ConfigureApp extends Command
      */
     public function handle()
     {
-        echo 'config';
+        $this->info('GLaDOS does not need any details from you yet.');
     }
 
     /**
